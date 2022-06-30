@@ -1,0 +1,26 @@
+DIFFERENCE BETWEEN COMPILER AND INTERPRETER:
+#. A COMPILER translate the entire source code in a single run while an INTERPRETER translates the entire source code line by line.
+#. COMPILER consumes less time i.e it is faster than INTERPRETER.
+#. COMPILER is not as flexible as the INTERPRETER.
+#. in COMPILER, both syntactic and semantic error can be checked concurrently, while in INTERPRETER, only syntactic errors are checked.
+#. presence of an error in COMPILER causes the whole program to be re-organised while presence of an error in INTERPRETER causes a part of the progrram to be re-organised
+COMPILER converts high level language into low level language including machine language using various phases.
+COMPILER is bigger in size compared to the INTERPRETER.
+
+
+CATEGORIES OF PROGRAMMING LANGUAGE.
+1.IMPERATIVE LANGUAGE: specifies the exact steps the computer must take to complete a desired action. (e.g, procedural language,object oriented programming language,and parallel processing language)
+2.DECLARATIVE LANGUAGE: specifies a desired action, but leaves the detailes of how to complete that action upto the computer
+
+
+PSEUDOCODE
+This is an artificial and informal language that helps programmers develop algorithm.
+It is also a notation resembling a simplified programming language used in programming design.
+
+
+FLOWCHART 
+This is type of program that represent a work flow or process,
+It is a diagramatic presentation of algorithn,
+It is also a picture of the seperate steps ofa process in sequencial order.
+
+TYPES; system FLOWCHART, general FLOWCHART,detailed FLOWCHART
